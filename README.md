@@ -2,7 +2,7 @@
 
 
 >This is an assignment for Module 1 **My web application:https://module-1-widiapuspitasar.vercel.app/**.
->This is an assignment for Module 2 **My web application:https://module-1-widiapuspitasar.vercel.app/**.
+>This is an assignment for Module 2 **My web application:https://modul-2-widiapuspitasar.netlify.app/**.
 ---
 
 ## Table of Content
