@@ -14,13 +14,9 @@ body {
 /* dark mode */
 
 body.dark {
-  background-color: #261C2C; /* Warna latar belakang dalam mode gelap */
-  color: white; /* Warna teks dalam mode gelap */
+  background-color: #261C2C; 
+  color: white; 
 }
-
-/* body.dark nav {
-  background-color: #6E85B2;
-} */
 
 body.dark .about, body.dark .about h1{
   color: white;
@@ -123,8 +119,6 @@ body.dark
 }
 /* toogle darkmode */
 
-
-
 /* section navbar */
 nav {
   background-color: #E0F4FF;
@@ -168,8 +162,6 @@ nav ul li a:hover {
   font-size: 28px;
   display: none;
 }
-
-
 /* section navbar */
 
 /* Section home */
@@ -287,7 +279,6 @@ input#gambar-4:checked ~ .slides .slide img {
 input#gambar-5:checked ~ .slides .slide img {
   margin-left: -400%;
 }
-
 /* input */
 
 /* Sembunyikan radio button */
