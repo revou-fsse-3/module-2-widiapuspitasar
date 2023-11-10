@@ -6,7 +6,7 @@
 ## How to deploy our website to vercel
 
 1. Log in to the Vercel web page. If you don't have an account, sign up first, if you already have an account, select Log In.
-![alt text](?raw=true)
+![alt text](https://github.com/revou-fsse-3/module-2-widiapuspitasar/blob/main/assets/Readme/1.png?raw=true)
 
 2. Select the desired Log In, I will provide a tutorial for logging in using GitHub.
 ![2](assets\Readme\2.png)
