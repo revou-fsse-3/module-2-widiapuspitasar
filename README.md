@@ -1,94 +1,58 @@
 # **Widia Puspitasari**
 
->This is an assignment for Module 2 **My web application:https://modul-2-widiapuspitasar.netlify.app/**.
+>This is an assignment for Module 2 **My web application:hhttps://www.myonepiece.site/**.
 ---
 
-## Table of Content
-- [Profile](#profile)
-- [My Skills](#my-skills)
-- [My Favotite Website](#my-favorite-website)
-- [My Code Example](#my-code-example)
-- [Contact](#contact)
-- [Social Media](#social-media)
+## How to deploy our website to vercel
 
----
+1. Log in to the Vercel web page. If you don't have an account, sign up first, if you already have an account, select Log In.
+![1](assets\Readme\1.png)
 
-## Profile
-Hello, I'm **Widia**, a software engineering candidate 😊.
+2. Select the desired Log In, I will provide a tutorial for logging in using GitHub.
+![2](assets\Readme\2.png)
 
-![alt text](https://github.com/revou-fsse-3/module-1-widiapuspitasar/blob/main/assets/img.jpeg?raw=true)
+3. After Log in, the Vercel web display will look like the one below. To create a new website select "Add New Project".
+![3](assets\Readme\3.png)
 
-I am a graduate in Biology from IPB University. Currently, I am not employed and want to focus on learning to switch careers to the field of software engineering. I have previously attended a bootcamp for data analysis, but over time, I have become very interested in learning about software engineering, so I joined a bootcamp at Revou.
+4. Import your website to be deployed, then select "Deploy".
+![4](assets\Readme\4.png)
 
----
+5. Congratulations, your website has been successfully deployed.
+![5](assets\Readme\5.png)
 
-## My Skills
-Here are some of my skills:
-- HTML
-- CSS
-- Markown
-- Javascript
+## How to buy a domain on Niagahoster
 
----
+1. Log in to the Niagahoster web page. If you don't have an account, sign up first, if you already have an account, select Log In
+![6](assets\Readme\6.png)
 
-## My Favotite Website
+2. After entering the Niagahoster website, select "Register Domain".
+![7](assets\Readme\7.png)
 
-| Name      | URL                         | Reason                      |
-| ------    | --------------------------- | ----------------------------|
-| Google    | <https://www.google.co.id>  | To find information         |
-| ChatGPT   | <https://chat.openai.com/>  | To find about code          |
-| Instagram | <https://www.instagram.com> | To check on a friend's news |
----
+3. Next, create a name and select the desired domain, then select "Buy Now".
+![8](assets\Readme\8.png)
 
-## My Code Example
+4. Select the desired payment.  
+![9](assets\Readme\9.png)
 
-### HTML
-```html
-<body>
-    <div class="content">
-        <h1> Hello World! </h1>
-        <p> This is paragraph.</p>
-    </div>
-</body>
-```
-### CSS
-```css
-.content {
-    color: #FFFFFF;
-    font-size: 36px;
-}
-```
+5. After that, fill in some data that has not been completed, then the domain will automatically be completed for registration.
+![10](assets\Readme\10.png)
 
-### Markdown
-```markdown
-# Hello World!
-This is paragraph
-This is **bold**
-```
+## Cara management DNS domain
 
-### Javascript
-```javascript
-const hello = "Hello World";
-console.log(hello);
-```
+1. Enter the Vercel web then go to the "Domains" page, enter the domain that we previously created then click "Add".
+![11](assets\Readme\11.png)
 
----
+2. Next, the website will look like the image below, then select "Add".
+![12](assets\Readme\12.png)
 
+3. After that, change the DNS provider listed in Vercel to Niagahoster DNS.
+![13](assets\Readme\13.png)
 
+4. Return to the Niagahoster website, then go to the DNS page, adjust "Nameservers" with the nameservers provided by Niagahoster then press "Save"
+![14](assets\Readme\14.png)
 
-## Contact
-If you have any questions or would like to get in touch with me, please use the following contact information:
+5. Wait until the DNS validation process is complete, if it is jammed then the display will look like the one below.
+ ![15](assets\Readme\15.png)
 
-- Email: [*puspitasariwidia@gmail.com*](mailto:puspitasariwidia@gmail.com)
-- Phone: +62-8571-948-1704
-
----
-
-### Social Media
-Thank you for visiting my website! Don't forget to follow me on social media for updates 😊.
-
-- [*Instagram*](https://www.instagram.com/*widiapuspitasar/)
-- [*LinkedIn*](https://www.linkedin.com/in/widiapuspitasari)
-- [*GitHub*](https://github.com/widiapuspitasar)
-
----
+ 16. Congratulations, now the website with your new domain can be accessed 😊
+  ![16](assets\Readme\16.png)
