@@ -705,7 +705,22 @@ footer {
 }
 
 @media screen and (max-width: 600px) {
-  
+.tema {
+  margin: 10px;
+ }
+ .checkbox-label {
+   width: 35px;
+   height: 20px;
+ }
+ 
+ .checkbox-label .ball {
+   width: 25px;
+   height: 25px;
+ }
+ 
+ .checkbox:checked + .checkbox-label .ball {
+   transform: translateX(20px);
+ }
   .home-title {
     font-size: 2rem;
     margin-top: 60px;
